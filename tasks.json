@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Buy a car",
+    "status": "not done"
+  },
+  {
+    "id": 2,
+    "title": "Paid invoices",
+    "status": "in progress"
+  }
+]
